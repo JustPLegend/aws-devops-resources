@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.pre-header {
+    background-color: #250e2f;
+    height: 70px;
+    color: #fff;
+}

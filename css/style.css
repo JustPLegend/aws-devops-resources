@@ -5,6 +5,45 @@
 
 .pre-header {
     background-color: #250e2f;
-    height: 70px;
+    height: 90px;
     color: #fff;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    
+}
+
+.header .main-nav {
+    list-style: none;
+}
+
+.header .main-nav li {
+    display:inline-block;
+    margin-left: 30px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.header .main-nav li a{
+
+    color:#250e2f;
+    text-transform: uppercase;
+    font-size: larger;
+    
+}
+
+
+.main-body-cloud {
+
+    background-color: #E4DFD9;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:rgb(58, 0, 83);
+    
+}
+
+.main-body-cloud .cloud-links{
+    list-style: none;
+}
+
+.main-body-cloud li a {
+    color:darkviolet;
+    
 }

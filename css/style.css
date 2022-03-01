@@ -12,6 +12,8 @@
 
 }
 
+/************************************* MAIN - NAV **********************************/
+
 .main-nav .main-menu {
     list-style: none;
     margin-top: 5px;
@@ -35,6 +37,21 @@
   margin-top:5px;
 }
 
+/*****************************MAIN - TITLE - CLOUD******************************/
+
+.main-title-cloud .cloud-title {
+
+  text-align: center;
+  padding-bottom: 30px;
+}
+
+
+
+
+
+
+
+/****************************CSS FOR MAIN BODY (CLOUD)*****************************/
 
 .main-body-cloud {
 
@@ -53,6 +70,9 @@
 
 }
 
+
+
+/******************************************HOME -IMAGE - SECTION ***********************************/
 
 
 .home-image-section {

@@ -3,6 +3,8 @@
     padding: 0;
 }
 
+
+
 .pre-header {
     background-color: #202b40;
     height: 90px;
@@ -37,42 +39,8 @@
   margin-top:5px;
 }
 
-/*****************************MAIN - TITLE - CLOUD******************************/
 
-.main-title-cloud .cloud-title {
-
-  text-align: center;
-  padding-bottom: 30px;
-}
-
-
-
-
-
-
-
-/****************************CSS FOR MAIN BODY (CLOUD)*****************************/
-
-.main-body-cloud {
-
-    background-color: #E4DFD9;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color:rgb(58, 0, 83);
-
-}
-
-.main-body-cloud .cloud-links{
-    list-style: none;
-}
-
-.main-body-cloud li a {
-    color:darkviolet;
-
-}
-
-
-
-/******************************************HOME -IMAGE - SECTION ***********************************/
+/******************************************HOME -IMAGE - SECTION (central img on index.html)***********************************/
 
 
 .home-image-section {
@@ -107,4 +75,73 @@
   color: #4f33f1 !important;
   background-color: transparent;
   text-decoration: none;
+}
+
+
+
+
+/*****************************MAIN - TITLE - YOUTUBE (cloud.html) ******************************/
+
+.main-title-youtube .youtube-title {
+
+  text-align: center;
+  padding-bottom: 30px;
+}
+
+
+
+/****************************CSS FOR MAIN BODY (CLOUD)*****************************/
+
+.main-body-youtube {
+
+    background-color: #E4DFD9;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:rgb(58, 0, 83);
+
+}
+
+.main-body-youtube .youtube-links{
+    list-style: none;
+}
+
+.main-body-youtube li a {
+    color:darkviolet;
+
+}
+
+
+/**************************MAIN TITLE - HANDS-ON (2nd section of cloud.html) ******************************************/
+
+
+.main-title-hands .hands-title {
+
+  text-align: center;
+  padding-top: 30px;
+}
+
+
+
+/*************************************AWS HANDS-ON -MAIN body (2nd section of cloud.html)*******************************/
+
+
+
+
+
+/***************************** SOLUTION ARHITECT - main title (solution arhitect.html)*********************/
+
+.main-title-sa .sa-title {
+
+  text-align: center;
+  padding-bottom: 5px;
+}
+.main-title-sa p {
+  
+  text-align: center;
+}
+
+
+.main-body-sa .sa-links {
+
+  list-style: none;
+
 }

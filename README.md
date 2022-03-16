@@ -1,5 +1,8 @@
 # aws-cloud-resources
-Simple static web site for collecting resources for AWS , DevOps, Networking, Programming and all other important things for learning. 7
+
+<p align="center"><img src="images/githubawsdevops.png"/></p>
+
+Simple static web site for collecting resources for AWS , DevOps, Networking, Programming and all other important things for learning. 
 
 If you want to help fix something or add new resources, links, pages (related to AWS and DevOps)  feel free to submit a PR with your suggested fixes and I'll review.
 

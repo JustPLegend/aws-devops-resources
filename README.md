@@ -6,4 +6,4 @@ If you want to help fix something or add new resources, links, pages (related to
 If you want to use any portion of this repo in your own projects, just make sure you are aware of the license terms ... and I'd appreciate a friendly heads-up :)
 
 
-![indexpage] (https://github.com/JustPLegend/aws-cloud-resources/blob/main/indexpage.png)
+:busts_in_silhouette: &nbsp; [Home page](https://github.com/JustPLegend/aws-cloud-resources/blob/main/indexpage.png)

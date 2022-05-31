@@ -1,4 +1,4 @@
-# aws-cloud-resources
+# aws-devops-resources
 
 <p align="center"><img src="images/githubawsdevops.png"/></p>
 

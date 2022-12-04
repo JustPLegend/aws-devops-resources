@@ -2,7 +2,7 @@
 
 <p align="center"><img src="images/githubawsdevops.png"/></p>
 
-Simple static web site for collecting resources for AWS , DevOps, Networking, Programming and all other important things for learning. 
+Simple static web site for collecting resources for AWS , DevOps, Networking, Programming and all other important things for learning. It's my idea which I had through the AWS She Builds program for womans. GitHub profile: @AWS DevOps Resources.
 
 If you want to help fix something or add new resources, links, pages (related to AWS and DevOps)  feel free to submit a PR with your suggested fixes and I'll review.
 

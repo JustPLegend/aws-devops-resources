@@ -10,3 +10,7 @@ If you want to use any portion of this repo in your own projects, just make sure
 
 
 :computer: &nbsp;Picture of [home page](https://github.com/JustPLegend/aws-cloud-resources/blob/main/indexpage.png) for website. 
+
+License
+
+This library is licensed under the MIT License. See the LICENSE file.

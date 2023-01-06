@@ -13,4 +13,4 @@ If you want to use any portion of this repo in your own projects, just make sure
 
 <h2> License </h2>
 
-This open source project is licensed under the MIT License. See the LICENSE file.
+This open source project is licensed under the Apache License. See the LICENSE file.

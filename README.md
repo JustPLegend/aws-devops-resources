@@ -14,3 +14,5 @@ If you want to use any portion of this repo in your own projects, just make sure
 <h2> License </h2>
 
 This open source project is licensed under the Apache License. See the LICENSE file.
+
+:movie_camera: [AWS DevOps Resources](https://www.youtube.com/channel/UCDalssvq2pHV8EErZyWXb6g)

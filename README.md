@@ -1,6 +1,8 @@
 # aws-devops-resources
 
-<p align="center"><img src="images/githubawsdevops.png"/></p>
+ <p align="center"><img src="images/githubawsdevops.png"/></p>
+
+Official GitHub page for [AWS DevOps Resources](https://github.com/awsdevopresources) projec.
 
 Simple static web site for collecting resources for AWS , DevOps, Networking, Programming and all other important things for learning. It's my idea which I had through the AWS She Builds program for womans. GitHub profile: @AWS DevOps Resources.
 
